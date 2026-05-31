@@ -1,0 +1,6 @@
+{
+  "name": "Yazhini's 20th Birthday",
+  "description": "A heartwarming 20th birthday celebration website for Yazhini featuring a custom countdown, photo gallery, and virtual guestbook.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
